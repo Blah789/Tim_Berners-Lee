@@ -98,3 +98,15 @@ p {
     font-size: 30px;
     line-height: 1.2;
 }
+
+html {
+    scroll-behavior: smooth;
+}
+
+a {
+    text-decoration: none;
+}
+
+.article:hover {
+    color: fuchsia;
+}
